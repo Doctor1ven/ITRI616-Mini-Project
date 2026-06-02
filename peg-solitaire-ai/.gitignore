@@ -1,0 +1,5 @@
+qtable.pkl
+__pycache__/
+*.pyc
+training_logs/
+saved_solutions/
